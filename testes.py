@@ -1,4 +1,4 @@
-# Números para ordenar
+'''# Números para ordenar
 numeros = [34, 7, 22, 107, 89]
 
 # Implementação do algoritmo de ordenação por inserção com apenas um loop for
@@ -10,3 +10,9 @@ for i in range(1, len(numeros)):
 
 # Imprima a lista ordenada
 print("Lista ordenada:", numeros)
+'''
+
+conj = set ()
+conj.add(2)
+conj.add(7)
+conj.add(5)
