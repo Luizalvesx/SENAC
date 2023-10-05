@@ -10,3 +10,4 @@ def soma_recursiva(seq):
 minha_sequencia = [1, 2, 3, 4, 5]
 resultado = soma_recursiva(minha_sequencia)
 print(f"A soma da sequência {minha_sequencia} é {resultado}")
+# A soma é o primeiro elemento da sequência mais a soma dos restantes
